@@ -1,5 +1,5 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
 </keymap>
