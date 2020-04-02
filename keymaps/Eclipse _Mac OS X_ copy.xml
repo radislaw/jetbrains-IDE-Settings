@@ -52,6 +52,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="SendEOF" />
   <action id="UsageView.Include" />
   <action id="XDebugger.RemoveWatch">
