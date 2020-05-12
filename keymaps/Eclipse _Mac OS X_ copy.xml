@@ -33,6 +33,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
