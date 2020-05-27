@@ -4,7 +4,7 @@
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="clg" value="console.log('$LOG$');" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="clg" value="console.log('$LOG$', $LOG$)" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
