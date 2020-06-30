@@ -55,6 +55,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -63,6 +66,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="RunToCursor" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
