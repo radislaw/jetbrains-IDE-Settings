@@ -1,8 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="0" />
-    <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
@@ -15,6 +13,15 @@
     <entry key="mac.editor.thumb.default.fill.max" value="150" />
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
   </component>
   <component name="StatusBar">
     <option name="widgets">

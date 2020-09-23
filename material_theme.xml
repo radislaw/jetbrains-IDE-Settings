@@ -1,10 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="contrastMode" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isMaterialDesign" value="false" />
-    <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="416a9b" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="2aefd6d2:16cc6912f62:-7fff" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
