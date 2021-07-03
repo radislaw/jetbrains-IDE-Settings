@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CreateVueSingleFileComp">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
