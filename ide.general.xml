@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
@@ -15,13 +16,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
-  </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="Memory" value="true" />
-      </map>
-    </option>
   </component>
   <component name="StatusBar">
     <option name="widgets">
